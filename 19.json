@@ -1,0 +1,57 @@
+{
+    "name": "NFT #19",
+    "description": "Really awesome description!",
+    "image": "19.png",
+    "edition": 19,
+    "seller_fee_basis_points": 250,
+    "collection": {
+        "name": "Cool collection",
+        "family": "Cool collection"
+    },
+    "symbol": "",
+    "properties": {
+        "files": [
+            {
+                "uri": "19.png",
+                "type": "image/png"
+            }
+        ],
+        "category": "image",
+        "creators": [
+            {
+                "address": "6R1YMnnjWsj93a438whWkimCimNzAgKRid7QkUfpkCxF",
+                "share": 100
+            }
+        ]
+    },
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Green"
+        },
+        {
+            "trait_type": "Pumpkin Color",
+            "value": "Orange"
+        },
+        {
+            "trait_type": "Headwear",
+            "value": "Cap"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Smile"
+        },
+        {
+            "trait_type": "Nose",
+            "value": "Standard"
+        },
+        {
+            "trait_type": "Extras",
+            "value": "Silver Earrings"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Triangle"
+        }
+    ]
+}
